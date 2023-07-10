@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 17.0.1
+Class-Path: lib/jsoup-1.15.3.jar
+Main-Class: com.operation.Covid_Cases.App
+Created-By: Maven Integration for Eclipse
+
